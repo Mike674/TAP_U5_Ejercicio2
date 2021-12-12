@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TAP_U5_Ejercicio2</string>
+    <array name="listaopciones">
+        <item>Operaciones</item>
+        <item>Concatenar</item>
+        <item>Guardar en archivo</item>
+        <item>Leer desde archivo</item>
+        <item>Acerca de APP</item>
+        <item>Salir</item>
+    </array>
+    <array name="operaciones">
+        <item>SUMAR</item>
+        <item>RESTAR</item>
+        <item>MULTIPLICAR</item>
+        <item>DIVIDIR</item>
+    </array>
+</resources>
